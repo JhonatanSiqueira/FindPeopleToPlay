@@ -1,4 +1,4 @@
-# FindPeopleToPlay : Enconte Pessoas Para Jogar.
+# FindPeopleToPlay : Encontre Pessoas Para Jogar.
 
   ### PT-BR
 Aplicação completa e funcional desenvolvida em Nodejs no backend, ReactNative no mobile e React na parte web. Nele você pode postar anúncios referente ao jogo de sua escolha, 
